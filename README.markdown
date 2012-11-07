@@ -17,3 +17,5 @@ I needed to access goodreads api from client side, but xml and same origin polic
 Luckily I knew a [guy](https://github.com/jayniz)  who solved a very similar problem for me back at [2012 Movie Hack Day](http://moviehackday.com)  
 
 So I took it and [threw it on the ground](http://www.youtube.com/watch?v=gAYL5H46QnQ).  
+
+More on my [blog post](http://boratunca.com/blog/2012/11/08/bookssection/).
